@@ -8,5 +8,5 @@
     <li>The user then guesses the postioning of the three ships/DotComs</li>
     <li><ul><li>If the users guess if correct hit will be printed</li><li>If the user has 3 hits on eh same Dotcom/Ship then kill will be displayed</li></ul></li>
     <li>Repeat steps 3-4 untill all DotComs/ships are killed</li>
-    <li>Depending on how many guesses it took the user a certain message will be displayed to them which either congratulates them or tells them they arer really bad!</li>
+    <li>Depending on how many guesses it took the user a certain message will be displayed to them which either congratulates them or tells them they are really bad!</li>
 </ol>
