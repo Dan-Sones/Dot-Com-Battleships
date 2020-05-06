@@ -17,7 +17,7 @@ public class DotComBust {
         dotComsList.add(two);
         dotComsList.add(three);
 
-        System.out.println("Yout Goal is to sink three dot coms.");
+        System.out.println("Your Goal is to sink three DotComs/Ships.");
         System.out.println("Pets.com, eToys.com, Go2.com");
         System.out.println("Try to sink them in the fewest number of guesses");
         System.out.println("The format for guesssing is a-g followed by 0-6. For example A0 or B2)");
